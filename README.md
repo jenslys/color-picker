@@ -2,7 +2,7 @@
 # Color Picker
 
 Basic color tool for developers and designers.
-Pick any color on your screen by using your cursor.
+Get any color on your screen by using your cursor.
 
 
 ## Screenshot
