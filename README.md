@@ -1,8 +1,7 @@
 
 # Color Picker
 
-Basic color tool for developers and designers.
-Get any color on your screen by using your cursor.
+This is an open-source, native color picker for Windows that is simple and easy to use. This tool makes it simple to discover colors onscreen in the format you desire, allowing you to focus on being a quick and successful designer.
 
 
 ## Screenshot
